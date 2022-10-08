@@ -1,4 +1,4 @@
-# e2e-secure-chat-app
+# e2ee-secure-chat-app
 <ul>
   <li><h3>This is an ecrypted chat application</h3></li>
   <li>Every user gets their private key displayed on their chat screen, while the public key is broadcasted over the network for other users to contact</li>
