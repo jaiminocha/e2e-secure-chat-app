@@ -1,6 +1,6 @@
 # e2ee-secure-chat-app
 <ul>
-  <li><h3>This is an ecrypted chat application</h3></li>
+  <li><h3>This is a chat application, with end to end encryption</h3></li>
   <li>Every user gets their private key displayed on their chat screen, while the public key is broadcasted over the network for other users to contact</li>
   <li>The user generates the encrypted message using the public key of other user and the message, then sends the encrypted message on the chat with the name of the person the message is intended for. Then the rightful owner of the encrypted message can decrypt it with their private key.</li>
   <li>The user can send a message globally or send an encrypted text to a specific user with the help of their public key</li>
